@@ -1,1 +1,1 @@
-require('fs')
+node alasql

